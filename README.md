@@ -15,7 +15,7 @@
 
 - 📝 Sometimes I write articles on [https://medium.com/@hemangsharma1001](https://medium.com/@hemangsharma1001)
 
-- 💬 Ask me about **Nodejs , Express , MongoDb**
+- 💬 Ask me about **JavaScript , Nodejs , Express , MongoDb**
 
 - 📫 How to reach me **hemangsharma1001@gmail.com**
 
