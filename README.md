@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemang_191" target="blank"><img src="https://img.shields.io/twitter/follow/hemang_191?logo=twitter&style=for-the-badge" alt="hemang_191" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m  **Software Developer**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
