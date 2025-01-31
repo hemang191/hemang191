@@ -9,9 +9,9 @@
 
 - 🌱 I’m  **Software Developer**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 We can collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Front-End**
+- 🤝 I need help in **Front-End**
 
 - 📝 Sometimes I write articles on [https://medium.com/@hemangsharma1001](https://medium.com/@hemangsharma1001)
 
