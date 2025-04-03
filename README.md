@@ -11,8 +11,6 @@
 
 - 👯 We can collaborate on **Full Stack Projects**
 
-- 🤝 I need help in **Front-End**
-
 - 📝 Sometimes I write articles on [https://medium.com/@hemangsharma1001](https://medium.com/@hemangsharma1001)
 
 - 💬 Ask me about **JavaScript , Nodejs , Express , MongoDb**
